@@ -2,16 +2,4 @@
 
 ## Getting Started
 
-Upon download or clone:
-
-```
-npm install
-```
-
-To start the development server:
-
-```
-npm start
-```
-
-For educational purposes only.
+[link](http://github.com/rameshgnair/final)
