@@ -19,9 +19,10 @@ var theatres = require('./theatres.json')
 // Firebase
 var Rebase = require('re-base')
 var base = Rebase.createClass({
-  apiKey: "AIzaSyCEU6ERSIuf1WBkVbsYUVha6YPRASjp69U",   // replace with your Firebase application's API key
-  databaseURL: "https://bflix2-27a41.firebaseio.com/", // replace with your Firebase application's database URL
-})
+  apiKey: "AIzaSyA4duSXVlh4hR8PjRqEev_jpifNfJzIXnM",
+  authDomain: "buyflix-86cbb.firebaseapp.com",
+  databaseURL: "https://buyflix-86cbb.firebaseio.com/",
+});
 
 // Google Maps
 var GoogleMap = React.createClass({
